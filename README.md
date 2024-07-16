@@ -6,6 +6,8 @@ In this work I implemented a Spin Glass model on a graph in order to perform two
 The project is organized as follow:
 - task_1.ipynb: the notebook containing the functions to create the dataset, the GNN and to train it to predict the energy and the magnetization of the graphs;
 - task_2.ipynb: the notebook containing the MLP model and his training;
+- *presentation_files* contains the files used for the report and the presentation.
+
 
 - datasets: a directory to store all the dataset that has been created;
 - n_nodes_10: a directory to store the various training, the models, the plots etc.. for the GNN
